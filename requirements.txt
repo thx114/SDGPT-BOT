@@ -26,3 +26,8 @@ sniffio>=1.1
 nonebot-plugin-gocqhttp
 nonebot-plugin-guild-patch
 nonebot-plugin-SDGPT
+nonebot-adapter-onebot
+nonebot2[fastapi]
+revChatGPT
+EdgeGPT
+webuiapi
