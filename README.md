@@ -23,3 +23,6 @@
    一般为 http://127.0.0.1:8080/go-cqhttp/
 6. `添加账号` > ( 登录设备最好选 ipad 或 MacOS )
 7. 启动
+
+## Stable-Diffusion 配置:
+--server-name 127.0.0.1 --port 7860 --api
