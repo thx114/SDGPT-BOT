@@ -26,3 +26,7 @@
 
 ## Stable-Diffusion 配置:
 --server-name 127.0.0.1 --port 7860 --api
+
+## 单独插件 
+如果你想以NoneBot的插件形式安装:
+[***SDGPT***](https://github.com/thx114/SDGPT)
