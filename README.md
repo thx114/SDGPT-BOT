@@ -15,8 +15,16 @@
 ## 使用
 1. ```
    git clone https://github.com/thx114/SDGPT-BOT.git
-3. ```
+2. ```
    pip install -r requirements.txt
+   ```
+   ```
+   python -m pip install --user pipx
+   ```
+   ```
+   pipx install nb-cli
+   ```
+   
 3. 填写好 `config.cfg` 内容
 4. 运行 run.bat 或 `nb run`
 5. 打开日志提示中的gocqhttp链接:   
