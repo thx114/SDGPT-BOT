@@ -2,6 +2,8 @@
 基于 **[NoneBot2](https://v2.nonebot.dev/)** 
   
  
+ 本机器人为一键式,插件中包含了cqhttp,直接运行机器人，会自带qq实例
+
 ## 功能
 
 链接 ChatGPT / Bing / Stable-Diffusion  :   
