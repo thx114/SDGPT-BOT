@@ -18,6 +18,9 @@
 2. ```
    pip install -r requirements.txt
    ```
+    ```
+   pipx install nonebot-plugin-SDGPT --upgrade
+   ```
    ```
    python -m pip install --user pipx
    ```
