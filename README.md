@@ -17,7 +17,7 @@
 - [x] 自定义预设
 - [x] 详细的指令配置
 
- **指令**: [***SDGPT-Command***](https://github.com/thx114/SDGPT/wiki/%E6%8C%87%E4%BB%A4)
+**指令与功能**: [***SDGPT-CommandAndFunction***](https://github.com/thx114/SDGPT/wiki/%E6%8C%87%E4%BB%A4-%E4%B8%8E-%E5%8A%9F%E8%83%BD)
 ## 使用
 1. ```
    git clone https://github.com/thx114/SDGPT-BOT.git
@@ -51,9 +51,9 @@
 ## more
 
 [**QQ 群 391517834**](https://jq.qq.com/?_wv=1027&k=eKsgovej)  
-[**SDGPT BOT**](https://github.com/thx114/SDGPT-BOT)  
+[**SDGPT**](https://github.com/thx114/SDGPT)  
    
 [**NoneBot**](https://v2.nonebot.dev/)  
 [**ChatGPT**](https://github.com/acheong08/ChatGPT)  
-[**BingGPT**](https://github.com/dice2o/BingGPT)  
+[**EdgeGPT**](https://github.com/acheong08/EdgeGPT)  
 [**SD-api**](https://github.com/mix1009/sdwebuiapi)  
