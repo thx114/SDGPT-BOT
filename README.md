@@ -37,7 +37,7 @@
    ```
    
 3. 运行 run.bat 或 `nb run`
-4. 关闭，修改 config.cfg
+4. 关闭，修改 config.cfg,重新启动
 5. 打开日志提示中的gocqhttp链接:   
    一般为 http://127.0.0.1:8080/go-cqhttp/
 6. `添加账号` > ( 登录设备最好选 ipad 或 MacOS )
